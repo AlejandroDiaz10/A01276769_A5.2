@@ -1,0 +1,15 @@
+======================================================================
+SALES COMPUTATION RESULTS
+======================================================================
+
+Total Sales Processed: 46
+Total Cost: $168,145.36
+Execution Time: 0.0005 seconds
+
+======================================================================
+ERRORS FOUND: 4
+======================================================================
+  - Sale #22: Product 'Elotes' not found in catalogue
+  - Sale #33: Quantity cannot be negative (got -35)
+  - Sale #36: Product 'Frijoles' not found in catalogue
+  - Sale #45: Quantity cannot be negative (got -123)
